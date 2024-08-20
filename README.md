@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi
+- 🔭 I’m currently working on small company
 <!--
 **zhang-xiang-zx/zhang-xiang-zx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
